@@ -1,0 +1,6 @@
+{
+  "name": "Microsoft Document Viewer",
+  "description": "Secure document verification portal for Microsoft shared files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
